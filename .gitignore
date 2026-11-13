@@ -1,0 +1,5 @@
+node_modules/
+notesense/node_modules/
+.env
+.env.local
+dist/
